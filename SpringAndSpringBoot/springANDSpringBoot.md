@@ -93,7 +93,7 @@ WAS에서 관리되는 데이터 소스나 메시지 서비스를 이용할 수 
 
 <hr/>
 
-## * 참고
+##  참고
 <https://sas-study.tistory.com/274>  
 <https://annajinee.tistory.com/20>  
 <https://velog.io/@max9106/Spring-spring%EC%9D%B4%EB%9E%80-x7k4r8d5ij>  
